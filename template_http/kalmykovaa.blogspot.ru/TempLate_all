@@ -29,7 +29,7 @@ URL:      www.noaesthetic.com
    </Group>
 
    <Group description="Backgrounds" selector=".body-fauxcolumns-outer">
-     <Variable name="body.background.color" description="Outer Background" type="color" default="#66bbdd" value="transparent"/>
+     <Variable name="body.background.color" description="Outer Background" type="color" default="#ffffff" value="transparent"/>
      <Variable name="content.background.color" description="Main Background" type="color" default="#ffffff" value="transparent"/>
      <Variable name="header.background.color" description="Header Background" type="color" default="transparent" value="transparent"/>
    </Group>
